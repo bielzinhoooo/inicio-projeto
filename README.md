@@ -5,5 +5,5 @@ para rodar o projeto na sua maquina por favor presione:
 
 
 ```
-npm install rect
+node.js
 ```
